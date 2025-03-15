@@ -17,6 +17,7 @@ A simple, lightweight system monitoring tool that checks system resources like C
 
 ## Showcase📷
 ![image](https://github.com/user-attachments/assets/134f7202-adaf-4e09-b52c-24ea994c3955)
+
 Version 0.1😭(Planning on slowly getting more features)
 
 ## Installation⏬
